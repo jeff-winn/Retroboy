@@ -41,4 +41,20 @@ F 6 "5.9mm" H 5150 4100 50  0001 L BNN "Field6"
 	2    5150 4100
 	1    0    0    -1  
 $EndComp
+NoConn ~ 1850 6200
+NoConn ~ 2850 6200
+NoConn ~ 1850 6300
+NoConn ~ 2850 6300
+NoConn ~ 1850 6500
+NoConn ~ 2850 6500
+NoConn ~ 4650 1600
+NoConn ~ 5650 1600
+NoConn ~ 4650 1800
+NoConn ~ 5650 1800
+NoConn ~ 4650 1900
+NoConn ~ 5650 1900
+NoConn ~ 5650 2100
+NoConn ~ 5650 2200
+NoConn ~ 5650 2400
+NoConn ~ 5650 2500
 $EndSCHEMATC
